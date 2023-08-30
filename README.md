@@ -20,17 +20,11 @@ A flutter app which retrives data from the API , shows the conferences in a list
 ### Getting Started
 
 1. Clone this repository: `https://github.com/smty2018/gdsc-task.git`
-2. Navigate to the project directory: `cd your-app`
+2. Navigate to the project directory: `cd gdsc-task`
 3. Install dependencies: `flutter pub get`
 4. Run the app: `flutter run`
 
-## Usage
 
-Explain how users can use your app. Provide code snippets or examples if necessary. This section can cover basic usage, customization, or any tips/tricks.
-
-## Contributing
-
-Explain how others can contribute to your project. Include guidelines for submitting issues, feature requests, and pull requests.
 
 ## License
 
