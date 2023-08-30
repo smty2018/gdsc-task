@@ -2,6 +2,8 @@
 
 A flutter app which retrives data from the API , shows the conferences in a list view builder,and has features of searching and favourites.
 
+demo video:https://youtube.com/shorts/PJGlrC5o3dQ?feature=share
+
 1.Home Page:
 
 ![Screenshot 2023-08-30 120532](https://github.com/smty2018/gdsc-task/assets/74114936/c195267a-263a-4d70-b0b1-9516389da071)
