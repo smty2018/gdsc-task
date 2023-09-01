@@ -85,7 +85,6 @@ class FavScr extends StatelessWidget {
                       onPressed: () {
                         // Remove the event's ID from favlist
                         favlist.remove(favData.id);
-                        // Refresh the UI
                         ScaffoldMessenger.of(context).showSnackBar(
                           SnackBar(
                             content:
