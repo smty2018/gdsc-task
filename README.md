@@ -1,6 +1,6 @@
 # gdsctask
 
-A flutter app which retrives data from the API , shows the conferences in a list view builder,and has features of searching and favourites.
+A flutter app which retrives data from the API , shows the conferences in a list view builder,and has features of searching and favourites(Hive NoSql database).
 
 demo video:https://youtube.com/shorts/PJGlrC5o3dQ?feature=share
 
