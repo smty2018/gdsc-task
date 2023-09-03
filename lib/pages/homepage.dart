@@ -6,6 +6,7 @@ import 'package:gdsctask/pages/detail.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'package:shared_preferences/shared_preferences.dart';
+import "package:hive/hive.dart";
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -18,6 +19,8 @@ class _HomePageState extends State<HomePage> {
   List<int> favlist = [];
   List<Data> dataList = [];
   List<Data> filteredDataList = [];
+
+  late Box<int> favBox;
 
   @override
   void initState() {
